@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="correct">That\'s Correct!</string>
+    <string name="incorrect">That\'s Not Correct!</string>
+    <string name="previous">previous</string>
+    <string name="next">Next</string>
+
+
+    <string name="independance">26th of March is the independance day of Bangladesh.</string>
+    <string name="victory">16th December is the victory day of Bangladesh.</string>
+    <string name="tagore">Rabindranath Tagore was born in 1899.</string>
+    <string name="dhaka">Dhaka is the capital of Bangladesh.</string>
+    <string name="president">Sheikh Hasina is the president of Bangladesh.</string>
+
+</resources>
